@@ -1,0 +1,16 @@
+{
+  "audiovisual_files": {
+    "ace91acf-1faf-4e18-95c1-2619c290c4cc": {
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=ece1wGg1NmM&ab_channel=TalkwithJack",
+      "duration": 2494
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Interview with Jack Riordan",
+  "created_at": "2025-03-27T19:17:23.250Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-03-27T19:17:23.250Z",
+  "updated_by": "jackDeVry"
+}

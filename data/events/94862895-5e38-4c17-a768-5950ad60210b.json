@@ -1,0 +1,16 @@
+{
+  "audiovisual_files": {
+    "631f13cd-edd7-48fe-99f5-eb4a9469e1c5": {
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=Z6mLjKqnas8&ab_channel=LesterHamlet",
+      "duration": 5569
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Casa Vieja",
+  "created_at": "2025-03-27T19:17:23.250Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-03-27T19:17:23.250Z",
+  "updated_by": "jackDeVry"
+}

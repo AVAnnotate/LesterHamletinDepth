@@ -1,0 +1,16 @@
+{
+  "audiovisual_files": {
+    "1aa375d5-15c4-4e12-8389-a398ad4d3bf2": {
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=YZx1KKpth00&t=29s&ab_channel=LesterHamlet",
+      "duration": 1683
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Interview with Yadira Otero - Excelencias",
+  "created_at": "2025-03-27T19:17:23.250Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2025-03-27T19:17:23.250Z",
+  "updated_by": "jackDeVry"
+}
